@@ -285,6 +285,7 @@
 @media (width <= 376px) {
   .button-save {
     flex-direction: column;
+    margin: 52px auto 100px;
   }
 
   .content__image__label {
@@ -294,9 +295,5 @@
   .save__button-image {
     width: 28px;
     height: 28px;
-  }
-
-  .button-save {
-    margin: 52px auto 100px;
   }
 }
